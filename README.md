@@ -1,2 +1,2 @@
-# SCRUM
-Repositório criado com o objetivo de aplicar a metodologia SCRUM no projeto do PIM IV.
+# PIM IV
+Repositório criado com o objetivo de desenvolver o  PIM IV.
